@@ -1,0 +1,64 @@
+{
+  "main": {
+    "name": "Vasileios Bomponis",
+    "description": "Full Stack Web Developer",
+    "image": "profilepic.jpg",
+    "bio": "I am a passionate Full Stack Web Developer with expertise in building scalable, user-friendly web applications. I enjoy designing clean, maintainable code and am continuously expanding my expertise in modern web technologies. I believe in the power of code to transform ideas into reality and am constantly expanding my skill set to tackle any project that comes my way. Whether it’s optimizing existing systems or building software from scratch, I’m ready to make an impact.",
+    "contactmessage": "I’m always excited to connect with like-minded individuals, collaborate on interesting projects, or discuss how I can help solve your challenges through code. If you have a project idea, need a developer to bring your vision to life, or just want to chat about tech, feel free to reach out!",
+    "email": "vasileios.bobonis@gmail.com",
+    "phone": "+31 613285091",
+    "github": "https://github.com/Vasileios1314",
+    "project": "https://github.com/Vasileios1314/reactPortfolio",
+    "address": {
+      "city": "Almere",
+      "state": "The Netherlands"
+    },
+    "website": "",
+    "resumedownload": "Vasileios_Bomponis_CV.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vasileios-bomponis-a20673121/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Vasileios1314",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "C#",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "Typescript",
+        "level": "85%"
+      },
+      {
+        "name": "Docker",
+        "level": "65%"
+      }
+    ]
+  }
+}
